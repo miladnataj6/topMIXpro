@@ -136,8 +136,6 @@ vless://d50f50ef-20ff-47a1-a922-f476c2b83eb4@carrot.bitiboot.com:443?security=re
 
 vless://e3883769-b536-4938-95b2-e690b75e6e26@fast.dissertationhelpspecialist.com:443?security=reality&sni=tgju.org&fp=chrome&pbk=Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU&sid=44a3ef0168e834&type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice&encryption=none#POORIA
 
-vless://e67025a0-278f-4208-8690-cac092b82306@212.80.20.50:443?security=tls&sni=cs2.pishima.ir&fp=random&type=tcp&encryption=none#POORIA
-
 vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?security=tls&sni=ako.pagate.top&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#POORIA
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?security=tls&sni=KdTtBsWgDe.GiTi3.OrG&fp=random&type=ws&path=/&host=KdTtBsWgDe.GiTi3.OrG&encryption=none#POORIA
